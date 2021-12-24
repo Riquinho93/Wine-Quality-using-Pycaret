@@ -2,6 +2,8 @@
 
 📱 [APP] link: https://lnkd.in/eZGKKD9Q
 
+![Wine](https://github.com/Riquinho93/Wine-Quality-using-Pycaret/blob/main/assets/wine.jpg)
+
 📚 PyCaret is an open source machine learning library in Python that lets you go from preparing your data to deploying your model in minutes.
 
 💡 PyCaret's idea is to simplify the Data Scientist's work and automate routine tasks, increasing productivity and allowing solutions to be delivered faster.
